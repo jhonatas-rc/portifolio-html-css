@@ -58,3 +58,8 @@ a::before {
     transform: scale(1.1)
 
 }
+
+body {
+    color: #10C425;
+}
+
